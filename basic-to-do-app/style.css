@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(129, 185, 185);
+    display: flex;
+}
+
+.container{
+    background-color: rgb(40, 154, 154);
+    width:600px;
+    height:200px;
+    text-align: center;
+    border-radius: 10px;
+    border:2px double rgb(14, 125, 125);
+    margin:auto;
+    margin-top: 20px;
+}
+
+input{
+    width:500px;
+    height:30px;
+    background-color: rgb(227, 222, 199);
+}
+
+span{
+    width:200px;
+}
+
+button{
+    width:150px;
+    height:30px;
+    background-color: rgb(44, 83, 102);
+    color:azure;
+    margin: 20px;
+    font-size: medium;
+}
+
+ul{
+    font-size: large;
+    
+}
+
+.completed{
+    color: rgb(4, 30, 30);
+    text-decoration: line-through;
+}

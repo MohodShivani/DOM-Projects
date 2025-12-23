@@ -1,0 +1,44 @@
+body{
+    background-color: rosybrown;
+    text-align: center;
+}
+
+.container{
+    margin:auto;
+    width:800px;
+    height:500px;
+    margin-top: 65px;
+    padding: 15px;
+}
+
+h1{
+    font-size:x-large;
+    
+}
+
+.colors{
+    margin-left: 96px;
+}
+
+div {
+    height: 100px;
+    width: 200px;
+    border:2px solid black;
+    margin-left: 30%;
+}
+
+#a {
+    background-color: darkslateblue;
+}
+
+#b {
+    background-color: gray;
+}
+
+#c{
+    background-color: goldenrod;
+}
+
+#d{
+    background-color: gainsboro;
+}
